@@ -1,0 +1,25 @@
+
+š
+java:S2293y"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿•öªùÿÿÿÿJ$aa83bef4-ee0f-4af6-963d-20666c5245cd
+•
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒBJ$30eaac7f-9416-4e56-8431-3a9231a15c65
+•
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒBJ$dc18a045-6c6b-402c-b54f-a9955cee7428
+µ
+java:S1319Å"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(Ü×üéüÿÿÿÿJ$ab332609-0876-46b8-ae83-4a057b19f825
+™
+java:S1488F"]Immediately return this expression instead of assigning it to the temporary variable "sheet".(‡ê…„J$b10551bf-6c1c-4c5d-8824-8da2afd8e127
+™
+java:S1488Y"]Immediately return this expression instead of assigning it to the temporary variable "sheet".(ÛÎ¶ïJ$17368d66-ac57-4cfc-9bb3-20c2e8fed230
+Õ
+java:S1130h"“Remove the declaration of thrown exception 'org.apache.poi.openxml4j.exceptions.InvalidFormatException', as it cannot be thrown from method's body.(øû´“ÿÿÿÿÿJ$d154e20d-7856-44a8-af2d-9fe1f4133788
+
+java:S1871£"MThis branch's code block is the same as the block for the branch on line 156.(šÓŞúÿÿÿÿJ$783edf96-daca-4f2d-b020-d24ec2130685
+Š
+java:S1871"MThis branch's code block is the same as the block for the branch on line 156.(Ì‡ÛäJ$51e95d7c-614b-473c-b57e-978c599c9b8d
+
+java:S1871¡"MThis branch's code block is the same as the block for the branch on line 156.(•³í‹úÿÿÿÿJ$cf7cfe5e-d795-4ecb-8978-32409128ed6a
+”
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Ü×üéüÿÿÿÿJ$9531de65-1398-435a-b691-4297a519f88f
+ˆ
+java:S6541Å"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 77 to 64, Complexity from 20 to 14, Nesting Level from 3 to 2, Number of Variables from 20 to 6.(Ü×üéüÿÿÿÿJ$8c6c1724-55d6-4ebb-90cc-e0026f9c00ed
